@@ -1,6 +1,6 @@
 # Rust-OS
 
-[![Coverage Status](https://github.com/golang/dep)]
+ [![Coverage Status](https://coveralls.io/repos/github/flickr/justified-layout/badge.svg?branch=master)](https://github.com/golang/dep)
 
 
 
