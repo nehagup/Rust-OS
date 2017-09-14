@@ -1,6 +1,6 @@
 # Rust-OS
 
-[![Coverage Status]![banner flickr](https://github.com/golang/dep)
+[![Coverage Status](https://github.com/golang/dep)
 
 
 
